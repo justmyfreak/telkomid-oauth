@@ -1,5 +1,5 @@
 {
-    "name": "justmyfreak/telkomid-oauth2",
+    "name": "justmyfreak/telkomid-oauth",
     "type": "library",
     "description": "TelkomID oAuth2 library",
     "keywords": ["telkom id","oauth"],
